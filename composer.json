@@ -16,7 +16,7 @@
     ],
     "require": {
         "laravel/nova": "^2.0|^3.0",
-        "spatie/laravel-activitylog": "dev-l8-compatibility"
+        "spatie/laravel-activitylog": "l8-compatibility"
     },
     "autoload": {
         "psr-4": {
