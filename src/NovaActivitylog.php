@@ -29,6 +29,6 @@ class NovaActivitylog extends Tool
      */
     public function renderNavigation()
     {
-        return view('nova-activitylog::navigation');
+        // return view('nova-activitylog::navigation');
     }
 }
