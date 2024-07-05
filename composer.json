@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "laravel/nova": "^2.0|^3.0|^4.0",
+        "laravel/nova": "^2.0|^3.0|^4.0|dev-main",
         "spatie/laravel-activitylog": "^3.9|^4.0"
     },
     "autoload": {
